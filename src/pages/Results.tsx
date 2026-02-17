@@ -244,7 +244,7 @@ ${entry.questions.map((q, i) => `${i + 1}. ${q}`).join('\n')}
     )
   }
 
-  const { extractedSkills, checklist, roundMapping, plan7Days, questions, company, role, createdAt, companyIntel } = entry
+  const { extractedSkills, roundMapping, plan7Days, questions, company, role, createdAt, companyIntel } = entry
 
   return (
     <div className="space-y-6 animate-in fade-in duration-500">

@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import { CheckSquare, Square, RefreshCcw, Lock, Unlock, AlertTriangle } from 'lucide-react'
+import { CheckSquare, Square, Lock, Unlock } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card'
 
 // Separate key for RB

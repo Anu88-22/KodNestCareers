@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Lock, Rocket, Home } from 'lucide-react'
-import { Card, CardContent } from '../../components/ui/card'
+import { Rocket } from 'lucide-react'
+
 
 const CHECKLIST_STORAGE_KEY = 'rb-checklist'
 

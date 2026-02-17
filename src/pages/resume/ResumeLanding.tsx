@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { ArrowRight, FileText, Wand2 } from 'lucide-react'
+import { FileText, Wand2 } from 'lucide-react'
 
 export function ResumeLanding() {
     return (
